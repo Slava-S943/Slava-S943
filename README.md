@@ -1,46 +1,50 @@
-# Hi there, I'm Yaroslav 👋
+Hi there, I’m Yaroslav 👋
 
-### Junior Fullstack Developer
+Junior Full-Stack Developer
 
-I'm focused on building modern web applications with JavaScript, TypeScript, React, and Next.js. I'm also developing my backend skills with Node.js, Express, REST APIs, and MongoDB.
+I’m focused on building modern web applications with JavaScript, TypeScript, React, and Next.js. I’m also developing my backend skills with Node.js, Express, REST APIs, and MongoDB.
 
-I enjoy learning new technologies, solving problems, and collaborating on projects. I'm building my portfolio through individual and team-based projects.
+I enjoy learning new technologies, solving problems, and collaborating on projects. I’m building my portfolio through individual and team-based projects.
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
-**Frontend**
-- HTML5, CSS3, JavaScript, TypeScript
-- React, Next.js
-- TanStack Query, CSS Modules
+Frontend
 
-**Backend**
-- Node.js, Express.js
-- REST APIs, MongoDB, Mongoose
+* HTML5, CSS3, JavaScript, TypeScript
+* React, Next.js
+* TanStack Query, CSS Modules
 
-**Tools**
-- Git, GitHub, VS Code, Figma
+Backend
 
-## 🚀 Featured Projects
+* Node.js, Express.js
+* REST APIs, MongoDB, Mongoose
 
-### TravelTrucks — Camper Rental Web Application
+Tools
+
+* Git, GitHub, VS Code, Figma
+
+🚀 Featured Projects
+
+TravelTrucks — Camper Rental Web Application
 
 A camper rental application where users can browse and filter listings, explore camper details and reviews, view image galleries, and submit booking requests.
 
-- **Tech:** Next.js, React, TypeScript, TanStack Query, CSS Modules
-- [Live Demo](https://travel-trucks-omega-eight.vercel.app/)
-- [GitHub Repository](https://github.com/Slava-S943/travel-trucks)
+* Tech: Next.js, React, TypeScript, TanStack Query, CSS Modules
+* Live Demo
+* GitHub Repository
 
-### Harmoniq — Fullstack Article Platform
+Harmoniq — Fullstack Article Platform
 
-A team-based fullstack project developed as part of the GoIT educational program, combining a Next.js frontend with a Node.js and Express backend.
+A team-based full-stack project developed as part of the GoIT educational program, combining a Next.js frontend with a Node.js and Express backend.
 
-- **Tech:** Next.js, React, TypeScript, Node.js, Express, MongoDB
-- [Live Demo](https://project-webcrafters-03-frontend.vercel.app/)
-- [GitHub Repository](https://github.com/vitaliypolets/project-webcrafters-03)
+* Tech: Next.js, React, TypeScript, Node.js, Express, MongoDB
+* Live Demo
+* GitHub Repository
 
-## 📫 Connect with Me
+📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yaroslav-sobchuk/)
-- [GitHub](https://github.com/Slava-S943)
+* LinkedIn
+* GitHub
 
-I'm continuously learning and working toward becoming a stronger fullstack developer.
+I’m continuously learning and working toward becoming a stronger full-stack developer.
+
