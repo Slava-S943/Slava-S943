@@ -1,104 +1,62 @@
-# TravelTrucks
+# Hi there, I'm Yaroslav 👋
 
-TravelTrucks is a responsive camper rental web application built with Next.js, React, and TypeScript. It allows users to browse campervans, filter listings, explore camper details, read customer reviews, view image galleries, and submit booking requests.
+### Junior Full-Stack Developer
 
-[Live Demo](https://travel-trucks-omega-eight.vercel.app/) · [GitHub Repository](https://github.com/Slava-S943/travel-trucks)
+I'm focused on building modern web applications with JavaScript, TypeScript, React, and Next.js. I'm also developing my backend skills with Node.js, Express, REST APIs, and MongoDB.
 
-## Preview
+I enjoy learning new technologies, solving problems, and collaborating with other developers. I'm building my portfolio through individual and team-based projects.
 
-### Home Page
+## 🛠️ Tech Stack
 
-![TravelTrucks home page](./screenshots/homepage.png)
+**Frontend**
+- HTML5, CSS3, JavaScript, TypeScript
+- React, Next.js
+- TanStack Query, CSS Modules
 
-### Camper Catalog
+**Backend**
+- Node.js, Express.js
+- REST APIs, MongoDB, Mongoose
 
-![TravelTrucks camper catalog](./screenshots/catalog.png)
+**Tools**
+- Git, GitHub, VS Code, Figma
 
-## Features
+## 🚀 Featured Projects
 
-- Responsive layout for different screen sizes
-- Home page with a hero section and navigation to the camper catalog
-- Camper catalog with filtering by location, camper form, engine, and transmission
-- Pagination with a **Load More** button
-- Camper details page
-- Customer reviews with five-star ratings
-- Camper image gallery with Swiper
-- Booking form with validation
-- Booking requests sent to the backend API
-- Success notification after a successful booking
-- Loading and error states for asynchronous requests
+### 1. [TravelTrucks — Camper Rental Web Application](https://github.com/Slava-S943/travel-trucks)
 
-## Technologies
+An individual project where users can browse and filter camper listings, explore camper details and reviews, view image galleries, and submit booking requests.
 
-- **Next.js 16** — React framework and App Router
-- **React 19** — UI development
-- **TypeScript** — static typing
-- **TanStack Query** — asynchronous server-state management
-- **CSS Modules** — component-scoped styling
-- **React Icons** — icons
-- **Swiper** — interactive sliders and galleries
+- **Tech:** Next.js, React, TypeScript, TanStack Query, CSS Modules
+- [Live Demo](https://travel-trucks-omega-eight.vercel.app/)
+- [GitHub Repository](https://github.com/Slava-S943/travel-trucks)
 
-## Getting Started
+### 2. [Harmoniq — Full-Stack Article Platform](https://github.com/vitaliypolets/project-webcrafters-03)
 
-### Prerequisites
+A team project developed as part of the GoIT educational program, combining a frontend application with a backend API.
 
-- Node.js
-- npm
+- **Tech:** Next.js, React, TypeScript, Node.js, Express, MongoDB
+- **My assigned API area:** PATCH and DELETE operations for articles
+- [Live Demo](https://project-webcrafters-03-frontend.vercel.app/)
+- [GitHub Repository](https://github.com/vitaliypolets/project-webcrafters-03)
 
-### Installation
+### 3. [EcoTote — Team Project](https://github.com/vitaliifedunyk/eco-tote-project)
 
-Clone the repository and navigate to the project directory:
+A collaborative web development project.
 
-```bash
-git clone https://github.com/Slava-S943/travel-trucks.git
-cd travel-trucks
-```
+- **My contribution:** Header and navigation menu
+- [Live Demo](https://vitaliifedunyk.github.io/eco-tote-project/)
+- [GitHub Repository](https://github.com/vitaliifedunyk/eco-tote-project)
 
-Install dependencies:
+### 4. Bug Hunters — Team Project
 
-```bash
-npm install
-```
+A collaborative project developed as part of the GoIT educational program.
 
-### Development
+- **My contribution:** iziToast notifications, global loader display and hiding, and the Footer component
+- [Live Demo](https://vitaliifedunyk.github.io/bug-hunters/)
 
-Start the development server:
+## 📫 Connect with Me
 
-```bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-### Production Build
-
-Create a production build:
-
-```bash
-npm run build
-```
-
-Start the production server:
-
-```bash
-npm run start
-```
-
-### Linting
-
-Run ESLint:
-
-```bash
-npm run lint
-```
-
-## Project Goals
-
-This project demonstrates frontend development skills, including responsive interface development, API integration, data filtering and pagination, asynchronous state management, and form validation.
-
-## Author
-
-Yaroslav Sobchuk
-
-- [GitHub](https://github.com/Slava-S943)
 - [LinkedIn](https://www.linkedin.com/in/yaroslav-sobchuk/)
+- [GitHub](https://github.com/Slava-S943)
+
+I'm continuously learning, improving my development skills, and working toward building reliable, user-friendly web applications.
