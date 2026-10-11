@@ -32,7 +32,7 @@ An individual project where users can browse and filter camper listings, explore
 
 ### 2. [Harmoniq — Full-Stack Article Platform](https://github.com/vitaliypolets/project-webcrafters-03)
 
-A team project developed as part of the GoIT educational program, combining a frontend application with a backend API.
+A team project developed as part of the GoIT educational program.
 
 - **Tech:** Next.js, React, TypeScript, Node.js, Express, MongoDB
 - **My assigned API area:** PATCH and DELETE operations for articles
@@ -47,12 +47,13 @@ A collaborative web development project.
 - [Live Demo](https://vitaliifedunyk.github.io/eco-tote-project/)
 - [GitHub Repository](https://github.com/vitaliifedunyk/eco-tote-project)
 
-### 4. Bug Hunters — Team Project
+### 4. [Bug Hunters — Team Project](https://github.com/vitaliifedunyk/bug-hunters)
 
 A collaborative project developed as part of the GoIT educational program.
 
 - **My contribution:** iziToast notifications, global loader display and hiding, and the Footer component
 - [Live Demo](https://vitaliifedunyk.github.io/bug-hunters/)
+- [GitHub Repository](https://github.com/vitaliifedunyk/bug-hunters)
 
 ## 📫 Connect with Me
 
