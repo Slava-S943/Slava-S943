@@ -1,50 +1,104 @@
-Hi there, I’m Yaroslav 👋
+# TravelTrucks
 
-Junior Full-Stack Developer
+TravelTrucks is a responsive camper rental web application built with Next.js, React, and TypeScript. It allows users to browse campervans, filter listings, explore camper details, read customer reviews, view image galleries, and submit booking requests.
 
-I’m focused on building modern web applications with JavaScript, TypeScript, React, and Next.js. I’m also developing my backend skills with Node.js, Express, REST APIs, and MongoDB.
+[Live Demo](https://travel-trucks-omega-eight.vercel.app/) · [GitHub Repository](https://github.com/Slava-S943/travel-trucks)
 
-I enjoy learning new technologies, solving problems, and collaborating on projects. I’m building my portfolio through individual and team-based projects.
+## Preview
 
-🛠️ Tech Stack
+### Home Page
 
-Frontend
+![TravelTrucks home page](./screenshots/homepage.png)
 
-* HTML5, CSS3, JavaScript, TypeScript
-* React, Next.js
-* TanStack Query, CSS Modules
+### Camper Catalog
 
-Backend
+![TravelTrucks camper catalog](./screenshots/catalog.png)
 
-* Node.js, Express.js
-* REST APIs, MongoDB, Mongoose
+## Features
 
-Tools
+- Responsive layout for different screen sizes
+- Home page with a hero section and navigation to the camper catalog
+- Camper catalog with filtering by location, camper form, engine, and transmission
+- Pagination with a **Load More** button
+- Camper details page
+- Customer reviews with five-star ratings
+- Camper image gallery with Swiper
+- Booking form with validation
+- Booking requests sent to the backend API
+- Success notification after a successful booking
+- Loading and error states for asynchronous requests
 
-* Git, GitHub, VS Code, Figma
+## Technologies
 
-🚀 Featured Projects
+- **Next.js 16** — React framework and App Router
+- **React 19** — UI development
+- **TypeScript** — static typing
+- **TanStack Query** — asynchronous server-state management
+- **CSS Modules** — component-scoped styling
+- **React Icons** — icons
+- **Swiper** — interactive sliders and galleries
 
-TravelTrucks — Camper Rental Web Application
+## Getting Started
 
-A camper rental application where users can browse and filter listings, explore camper details and reviews, view image galleries, and submit booking requests.
+### Prerequisites
 
-* Tech: Next.js, React, TypeScript, TanStack Query, CSS Modules
-* Live Demo
-* GitHub Repository
+- Node.js
+- npm
 
-Harmoniq — Fullstack Article Platform
+### Installation
 
-A team-based full-stack project developed as part of the GoIT educational program, combining a Next.js frontend with a Node.js and Express backend.
+Clone the repository and navigate to the project directory:
 
-* Tech: Next.js, React, TypeScript, Node.js, Express, MongoDB
-* Live Demo
-* GitHub Repository
+```bash
+git clone https://github.com/Slava-S943/travel-trucks.git
+cd travel-trucks
+```
 
-📫 Connect with Me
+Install dependencies:
 
-* LinkedIn
-* GitHub
+```bash
+npm install
+```
 
-I’m continuously learning and working toward becoming a stronger full-stack developer.
+### Development
 
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+### Production Build
+
+Create a production build:
+
+```bash
+npm run build
+```
+
+Start the production server:
+
+```bash
+npm run start
+```
+
+### Linting
+
+Run ESLint:
+
+```bash
+npm run lint
+```
+
+## Project Goals
+
+This project demonstrates frontend development skills, including responsive interface development, API integration, data filtering and pagination, asynchronous state management, and form validation.
+
+## Author
+
+Yaroslav Sobchuk
+
+- [GitHub](https://github.com/Slava-S943)
+- [LinkedIn](https://www.linkedin.com/in/yaroslav-sobchuk/)
